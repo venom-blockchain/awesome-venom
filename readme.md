@@ -49,6 +49,7 @@ Some step-by-step guides to explore Venom Blockchain mechanics. Include smart co
 ## Code
 
 - [TON Solidity API](https://github.com/tonlabs/TON-Solidity-Compiler/blob/master/API.md) - List of instructions that expands Solidity language in TVM.
+- [TON Solidity Support VSCode Extension](https://marketplace.visualstudio.com/items?itemName=everscale.solidity-support) - Extended solidity syntax, TVM constructions, snippets for VSCode.
 
 
 ## Wallets
@@ -58,6 +59,7 @@ Some step-by-step guides to explore Venom Blockchain mechanics. Include smart co
 
 
 ## Blockchain Utilities
+
 - [VenomScan](https://venomscan.com/) - Venom Blockchain Explorer.
 
 
