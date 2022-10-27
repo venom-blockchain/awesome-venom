@@ -1,12 +1,12 @@
 <br/>
 <div align="center">
-  <img width="250px" src="./venom-cover.png">
+  <img width="250px" src="./venom-logo.jpg">
 </div>
 <br/>
 <div align="center">
 An awesome list about everything related to the <a href='https://venom.foundation/'>Venom Blockchain</a>.
 <br />
-Venom is a blockchain network focused on the Middle East and North Africa region as well as emerging economies worldwide to provide robust infrastructure for CBDC products and Web 3.0 applications
+Venom Blockchain has an asynchronous blockchain technology of dynamical sharding, that has made an unprecedented leap in blockchain technology development globally, bringing to the market boundless scalability, and higher security guarantees with decentralization.
 <br/>
 </div>
 <br/>
@@ -61,6 +61,8 @@ Some step-by-step guides to explore Venom Blockchain mechanics. Include smart co
 ## Blockchain Utilities
 
 - [VenomScan](https://venomscan.com/) - Venom Blockchain Explorer.
+- [VenomFaucet](https://faucet.venom.foundation/) - Faucet for Venom Blockchain testnet and mainnet networks.
+- [VenomPools](https://venompools.com/) - dApp that can helps you with Staking on Venom Network.
 
 
 ## Official
