@@ -1,0 +1,13 @@
+{
+    "name": "awesome-venom",
+    "version": "1.0.0",
+    "description": "A Curated List of Awesome Venom Blockchain Eesources",
+    "license": "CC0-1.0",
+    "homepage": "https://github.com/venom-foundation/awesome-venom#readme",
+    "scripts": {
+      "test": "awesome-lint"
+    },
+    "devDependencies": {
+          "awesome-lint": "*"
+      }
+  }
