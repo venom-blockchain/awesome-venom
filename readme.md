@@ -34,7 +34,7 @@ Venom Blockchain has an asynchronous blockchain technology of dynamical sharding
 - [Evescale standalone client](https://github.com/broxus/everscale-standalone-client) - Standalone client for Everscale blockchain to use with inpage provider. Compatible with Venom Blockchain.
 - [Venom Connect](https://github.com/web3sp/venom-connect) - Easy integration of Venom Wallet into dApps. (inspired by web3modal).
 - [nekoton](https://github.com/broxus/nekoton) - Rust SDK for Venom network.
-- [ton-ndexer](https://github.com/broxus/ton-indexer) - Simple and reliable indexer node of Venom Blockchain.
+- [ton-indexer](https://github.com/broxus/ton-indexer) - Simple and reliable indexer node of Venom Blockchain.
 
 ## Tutorials
 
