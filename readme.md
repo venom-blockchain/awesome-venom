@@ -15,15 +15,13 @@ Venom Blockchain has an asynchronous blockchain technology of dynamical sharding
 
 ## Contents
 
-- [Awesome Venom](#awesome-venom)
-  - [Contents](#contents)
-  - [Documentation](#documentation)
-  - [Programming](#programming)
-  - [Tutorials](#tutorials)
-  - [Code](#code)
-  - [Wallets](#wallets)
-  - [Blockchain Utilities](#blockchain-utilities)
-  - [Official](#official)
+1. [Documentation](#documentation)
+2. [Programming](#programming)
+3. [Tutorials](#tutorials)
+4. [Code](#code)
+5. [Wallets](#wallets)
+6. [Blockchain Utilities](#blockchain-utilities)
+7. [Official](#official)
 
 ## Documentation
 
