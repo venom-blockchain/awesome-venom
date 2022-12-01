@@ -15,13 +15,15 @@ Venom Blockchain has an asynchronous blockchain technology of dynamical sharding
 
 ## Contents
 
-1. [Documentation](#documentation)
-2. [Programming](#programming)
-3. [Tutorials](#tutorials)
-4. [Code](#code)
-5. [Wallets](#wallets)
-6. [Blockchain Utilities](#blockchain-utilities)
-7. [Official](#official)
+- [Awesome Venom](#awesome-venom)
+  - [Contents](#contents)
+  - [Documentation](#documentation)
+  - [Programming](#programming)
+  - [Tutorials](#tutorials)
+  - [Code](#code)
+  - [Wallets](#wallets)
+  - [Blockchain Utilities](#blockchain-utilities)
+  - [Official](#official)
 
 ## Documentation
 
@@ -35,6 +37,7 @@ Venom Blockchain has an asynchronous blockchain technology of dynamical sharding
 - [Venom Connect](https://github.com/web3sp/venom-connect) - Easy integration of Venom Wallet into dApps. (inspired by web3modal).
 - [nekoton](https://github.com/broxus/nekoton) - Rust SDK for Venom network.
 - [ton-indexer](https://github.com/broxus/ton-indexer) - Simple and reliable indexer node of Venom Blockchain.
+- [venom-scaffold](https://github.com/venom-blockchain/generator-venom-scaffold) - [Yeoman](https://yeoman.io/) generator to scaffold ready-to-use projects for smart contract development on Venom-like blockchains.
 
 ## Tutorials
 
