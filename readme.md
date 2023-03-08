@@ -33,6 +33,7 @@ Venom Blockchain has an asynchronous blockchain technology of dynamical sharding
 - [Everscale inpage provider](https://github.com/broxus/everscale-inpage-provider) - Web3-like interface for Everscale blockchain. Compatible with Venom Blockchain.
 - [Evescale standalone client](https://github.com/broxus/everscale-standalone-client) - Standalone client for Everscale blockchain to use with inpage provider. Compatible with Venom Blockchain.
 - [Venom Connect](https://github.com/web3sp/venom-connect) - Easy integration of Venom Wallet into dApps. (inspired by web3modal).
+- [Ever SDK](https://github.com/tonlabs/ever-sdk) - Rust Client Library (core) for DApp development in TVM blockchains (Everscale, TON, Venom Blockchain, etc). It also has bindings for JS, Python, Go, Java and other popular languages.
 - [nekoton](https://github.com/broxus/nekoton) - Rust SDK for Venom network.
 - [ton-indexer](https://github.com/broxus/ton-indexer) - Simple and reliable indexer node of Venom Blockchain.
 - [venom-scaffold](https://github.com/venom-blockchain/generator-venom-scaffold) - [Yeoman](https://yeoman.io/) generator to scaffold ready-to-use projects for smart contract development on Venom-like blockchains.
