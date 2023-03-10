@@ -36,7 +36,7 @@ Venom Blockchain has an asynchronous blockchain technology of dynamical sharding
 - [Ever SDK](https://github.com/tonlabs/ever-sdk) - Rust Client Library (core) for DApp development in TVM blockchains (Everscale, TON, Venom Blockchain, etc). It also has bindings for JS, Python, Go, Java and other popular languages.
 - [nekoton](https://github.com/broxus/nekoton) - Rust SDK for Venom network.
 - [ton-indexer](https://github.com/broxus/ton-indexer) - Simple and reliable indexer node of Venom Blockchain.
-- [venom-scaffold](https://github.com/venom-blockchain/generator-venom-scaffold) - [Yeoman](https://yeoman.io/) generator to scaffold ready-to-use projects for smart contract development on Venom-like blockchains.
+- [venom-scaffold](https://github.com/venom-blockchain/generator-venom-scaffold) - [Yeoman](https://yeoman.io/) generator to scaffold ready-to-use projects for smart contract development on TVM-based blockchains.
 
 ## Tutorials
 
